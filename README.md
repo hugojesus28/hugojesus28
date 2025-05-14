@@ -1,9 +1,10 @@
 
-## Olá, sou o Hugo 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&lines=Programador+Full+Stack;Estudante+de+Programa%C3%A7%C3%A3o;Criando+com+c%C3%B3digo+e+criatividade" />
+</p>
 
 
 
-## 📊 **Meus Números no GitHub**
 <div align="center">
   <!-- GitHub Stats -->
   <div style="display: flex; justify-content: center; gap: 20px;">
@@ -26,11 +27,16 @@
 </div>
 
 
+<hr>
+<div style="margin-left: 100px;">
 
 
-## 💬 **Contato**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20de%20Jesus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-de-jesus-09b8271b2)
 [![Email](https://img.shields.io/badge/Email-hugojesus012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugojesus012@gmail.com)
+    
+  </div>
+
+
 
 
 
